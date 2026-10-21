@@ -126,8 +126,8 @@ export default function Page() {
         <a href="#top" className="font-serif text-xl font-semibold tracking-[-0.03em] text-[#7d2940]">
           PinkVision - A campaign for October Pink by AiVision
         </a>
-        <a href="#quiz" className="text-sm font-medium text-[#8b656d] transition-colors hover:text-[#7d2940]">
-          Take the quiz <span aria-hidden="true">↗</span>
+        <a href="https://findthepink.vercel.app/" className="text-sm font-medium text-[#8b656d] transition-colors hover:text-[#7d2940]">
+          Test your vision <span aria-hidden="true">↗</span>
         </a>
       </header>
 
